@@ -40,7 +40,7 @@ education:
       year: ongoing
     - course: MSc in Statistics & Data Science
       institution: Ludwig-Maximilians University Munich
-      year: 2009
+      year: 2023
     - course: BSc in Business Administration
       institution: European-University Viadrina
       year: 2020
