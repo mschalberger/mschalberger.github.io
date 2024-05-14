@@ -1,7 +1,6 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
-draft: true
 
 # View.
 #   1 = List
@@ -10,7 +9,7 @@ draft: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+#header:
+#  caption: ''
+#    image: ''
 ---
