@@ -12,5 +12,6 @@ date_end: '2024-06-30'
 all_day: false
 authors: []
 tags: []
+publishDate: '2024-05-01T00:00:00Z'
 featured: false
 ---
