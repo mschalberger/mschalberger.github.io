@@ -1,5 +1,5 @@
 ---
-title: "Scalable Estimation of Signed Exponential Random Graph Models with Local Dependence"
+title: "Scalable Estimation of Signed Exponential Random Graph Models with Local Dependence (WiP)"
 authors:
   - Marc Schalberger
   - Cornelius Fritz
