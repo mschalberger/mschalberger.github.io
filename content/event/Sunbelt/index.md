@@ -9,7 +9,7 @@ address:
   country: "United Kingdom"
 date: '2024-06-24'
 date_end: '2024-06-30'
-all_day: false
+all_day: true
 authors: []
 tags: []
 publishDate: '2024-05-01T00:00:00Z'
