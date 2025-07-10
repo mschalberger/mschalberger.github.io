@@ -9,7 +9,7 @@ address:
   country: "USA"
 date: '2025-08-02'
 date_end: '2025-08-07'
-all_day: false
+all_day: true
 authors: []
 tags: []
 publishDate: '2025-07-10T00:00:00Z'
