@@ -241,7 +241,7 @@ sections:
       address:
         street: Garystraße 21 (Room 309)
         city: Berlin
-        postcode: '10827'
+        postcode: '14195'
         country: Germany
         country_code: GER
       # Choose a map provider in `params.yaml` to show a map from these coordinates
