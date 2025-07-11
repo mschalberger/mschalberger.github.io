@@ -225,18 +225,15 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: teaching
+  - block: collection
     id: teaching
     content:
       filters:
         folders:
-          - taching
+          - teaching
     design:
       columns: '2'
       view: compact
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
   - block: contact
     id: contact
     content:
