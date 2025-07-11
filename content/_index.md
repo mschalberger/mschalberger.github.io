@@ -225,15 +225,16 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: teaching
-    content:
-      title: Teaching
-      items:
-        - Item 1
-        - Item 2
-    design:
-      columns: '2'
-      view: compact
+   - block: teaching
+      id: teaching
+      content:
+        title: Teaching
+        items:
+          - Item 1
+          - Item 2
+      design:
+        columns: 2
+        view: compact
     - block: contact
     id: contact
     content:
