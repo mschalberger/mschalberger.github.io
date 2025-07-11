@@ -191,7 +191,7 @@ sections:
       columns: '2'
       view: compact
 
-  - block: list
+  - block: markdown
     id: teaching
     content:
       title: Teaching
