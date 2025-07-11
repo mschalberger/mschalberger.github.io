@@ -226,14 +226,15 @@ sections:
       columns: '2'
       view: compact
   - block: markdown
-    id: teaching
     content:
-      filters:
-        folders:
-          - teaching
-    design:
-      columns: '2'
-      view: compact
+      title: Teaching
+      text: |
+        # My Teaching Section
+
+        This is some **markdown** content.
+
+        - Item 1
+        - Item 2
   - block: contact
     id: contact
     content:
