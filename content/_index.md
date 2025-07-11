@@ -225,17 +225,15 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    content:
+   - block: list
       title: Teaching
-      text: |
-        # My Teaching Section
-
-        This is some **markdown** content.
-
+      items:
         - Item 1
         - Item 2
-  - block: contact
+      design:
+        columns: 2
+        view: compact
+    - block: contact
     id: contact
     content:
       title: Contact
