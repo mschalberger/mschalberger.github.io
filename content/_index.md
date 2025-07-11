@@ -232,7 +232,7 @@ sections:
         - Item 1
         - Item 2
     design:
-      columns: 2
+      columns: '2'
       view: compact
     - block: contact
     id: contact
