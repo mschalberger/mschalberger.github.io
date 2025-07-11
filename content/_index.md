@@ -225,8 +225,15 @@ sections:
     design:
       columns: '2'
       view: compact
-  # - block: tag_cloud
-  #   content:
+  - block: teaching
+    id: teaching
+    content:
+      filters:
+        folders:
+          - taching
+    design:
+      columns: '2'
+      view: compact
   #     title: Popular Topics
   #   design:
   #     columns: '2'
