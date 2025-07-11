@@ -1,10 +1,16 @@
 ---
 title: "Teaching"
 date: 2025-07-11
-view: 3
+cms_exclude: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
-banner:
+header:
   caption: ''
   image: ''
 ---
