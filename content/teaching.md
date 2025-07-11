@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 date: 2025-07-11
+draft: false
 cms_exclude: true
 
 # View.
