@@ -190,15 +190,18 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+    
+  - block: markdown
     content:
       title: Teaching
       text: |
-        - Item 1: Introduction to Data Science
-        - Item 2: Advanced Seminar on Machine Learning
-        - Item 3: Research Methods Workshop
+        - **Foundations of Statistics**
+        - **Introduction to Python**
+        - **Introduction to R**
+        - **Introduction to Statistical Learning** 
     design:
       columns: '2'
+    
   - block: contact
     id: contact
     content:
