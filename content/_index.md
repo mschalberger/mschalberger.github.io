@@ -190,18 +190,15 @@ sections:
     design:
       columns: '2'
       view: compact
-
   - block: markdown
-    id: teaching
     content:
       title: Teaching
       items:
         - Item 1
         - Item 2
     design:
-      columns: 2
+      columns: '2'
       view: compact
-
   - block: contact
     id: contact
     content:
