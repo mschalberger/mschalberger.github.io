@@ -190,7 +190,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
+  - block: experience
     content:
       title: Teaching
       items:
