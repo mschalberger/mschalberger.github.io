@@ -194,9 +194,9 @@ sections:
     content:
       title: Teaching
       text: |
-      - Item 1: Introduction to Data Science
-      - Item 2: Advanced Seminar on Machine Learning
-      - Item 3: Research Methods Workshop
+        - Item 1: Introduction to Data Science
+        - Item 2: Advanced Seminar on Machine Learning
+        - Item 3: Research Methods Workshop
     design:
       columns: '2'
   - block: contact
