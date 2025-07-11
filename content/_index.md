@@ -198,7 +198,6 @@ sections:
         - Item 2
     design:
       columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
