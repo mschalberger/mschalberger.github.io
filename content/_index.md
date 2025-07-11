@@ -190,12 +190,12 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: experience
+  - block: collection
     content:
       title: Teaching
-      items:
-        - Item 1
-        - Item 2
+      filters:
+        folders:
+          - teaching
     design:
       columns: '2'
   - block: contact
