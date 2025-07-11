@@ -225,7 +225,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       filters:
