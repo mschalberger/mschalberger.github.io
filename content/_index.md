@@ -195,7 +195,7 @@ sections:
     content:
       title: Teaching
       text: |
-        - **Causal Machine Learning 
+        - **Causal Machine Learning** 
         - **Foundations of Statistics**
         - **Introduction to Python**
         - **Introduction to R**
