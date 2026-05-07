@@ -197,14 +197,10 @@ sections:
     text: |
       **Courses**
       - **Causal Machine Learning** (2025 and 2026, Teaching Assistant, graduate level)
-
       **Workshops**
       - **Foundations of Statistics** (1-day workshop)  
-
       - **Introduction to Python** (2-day workshop)  
-
       - **Introduction to R** (2-day workshop)  
-
       - **Introduction to Statistical Learning** (1-day workshop)  
   design:
     columns: '2'
