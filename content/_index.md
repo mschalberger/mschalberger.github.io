@@ -116,18 +116,18 @@ sections:
   #   design:
   #     columns: '2'
 
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - post
-  #     order: desc
-  #   design:
-  #     view: compact
-  #     columns: '2'
+   - block: collection
+     id: posts
+     content:
+       title: Recent Posts
+       count: 1
+       filters:
+         folders:
+           - post
+       order: desc
+     design:
+       view: compact
+       columns: '2'
 
   # - block: portfolio
   #   id: projects
@@ -190,6 +190,15 @@ sections:
     design:
       columns: '2'
       view: compact
+    
+  - block: markdown
+    content:
+      title: Software
+      text: |
+        - **[ergm.sign](https://cran.r-project.org/web/packages/ergm.sign/index.html)**: R package on CRAN to estimate, simulate, and assess the fit of Signed Exponential Random Graph Models.
+        - **[bigsergm](https://github.com/mschalberger/bigsergm)**: R package on GitHub providing a toolbox to analyze and simulate large signed networks under local dependence.
+    design:
+      columns: '2'
     
   - block: markdown
     content:
