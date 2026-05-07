@@ -203,6 +203,9 @@ sections:
         - **Introduction to Python** (2-day workshop)
         - **Introduction to R** (2-day workshop)
         - **Introduction to Statistical Learning** (1-day workshop)
+    
+        **Tutorials**
+        - **Statistical Modeling of Signed Networks with ergm.sign** (3-hour workshop, EUSN 2026, with Cornelius Fritz)
     design:
       columns: '2'
     
