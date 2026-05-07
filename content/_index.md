@@ -116,18 +116,18 @@ sections:
   #   design:
   #     columns: '2'
 
-   - block: collection
-     id: posts
-     content:
-       title: Recent Posts
-       count: 1
-       filters:
-         folders:
-           - post
-       order: desc
-     design:
-       view: compact
-       columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      count: 1
+      filters:
+        folders:
+          - post
+      order: desc
+    design:
+      view: compact
+      columns: '2'
 
   # - block: portfolio
   #   id: projects
