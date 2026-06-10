@@ -8,7 +8,7 @@ tags:
   - R
   - Media Coverage
   - FIFA World Cup 2026
-***
+---
 
 Our FIFA World Cup 2026 prediction work received press coverage in **BZ Berlin** and other outlets ahead of the tournament's kick-off on June 11.
 
