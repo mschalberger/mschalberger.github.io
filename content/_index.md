@@ -120,7 +120,7 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      count: 1
+      count: 2
       filters:
         folders:
           - post
