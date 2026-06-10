@@ -1,7 +1,7 @@
 ---
 title: 'Berliner Forscher wissen schon, wer die WM gewinnt'
 date: 2026-06-09
-summary: 'Our FIFA World Cup prediction models, includin Elo ratings, Dixon-Coles, and random forests was featured on the frontpage of BZ Berlin.'
+summary: 'Our FIFA World Cup prediction models, including Elo ratings, Dixon-Coles, and random forests, were featured on the front page of BZ Berlin.'
 tags:
   - Monte Carlo
   - Sports Statistics
