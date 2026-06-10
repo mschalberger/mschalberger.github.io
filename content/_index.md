@@ -126,7 +126,7 @@ sections:
           - post
       order: desc
     design:
-      view: card
+      view: showcase
       columns: '2'
 
   # - block: portfolio
