@@ -168,6 +168,7 @@ sections:
       view: citation
 
   - block: markdown
+    id: software
     content:
       title: Software
       text: |
@@ -188,6 +189,7 @@ sections:
       view: compact
     
   - block: markdown
+    id: teaching
     content:
       title: Teaching
       text: |
