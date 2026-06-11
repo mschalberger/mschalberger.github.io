@@ -116,19 +116,6 @@ sections:
   #   design:
   #     columns: '2'
 
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      count: 2
-      filters:
-        folders:
-          - post
-      order: desc
-    design:
-      view: showcase
-      columns: '2'
-
   # - block: portfolio
   #   id: projects
   #   content:
@@ -180,6 +167,15 @@ sections:
       columns: '2'
       view: citation
 
+  - block: markdown
+    content:
+      title: Software
+      text: |
+        - **[ergm.sign](https://cran.r-project.org/web/packages/ergm.sign/index.html)**: R package on CRAN to estimate, simulate, and assess the fit of Signed Exponential Random Graph Models.
+        - **[bigsergm](https://github.com/mschalberger/bigsergm)**: R package on GitHub providing a toolbox to analyze and simulate large signed networks under local dependence.
+    design:
+      columns: '2'
+
   - block: collection
     id: talks
     content:
@@ -190,15 +186,6 @@ sections:
     design:
       columns: '2'
       view: compact
-    
-  - block: markdown
-    content:
-      title: Software
-      text: |
-        - **[ergm.sign](https://cran.r-project.org/web/packages/ergm.sign/index.html)**: R package on CRAN to estimate, simulate, and assess the fit of Signed Exponential Random Graph Models.
-        - **[bigsergm](https://github.com/mschalberger/bigsergm)**: R package on GitHub providing a toolbox to analyze and simulate large signed networks under local dependence.
-    design:
-      columns: '2'
     
   - block: markdown
     content:
@@ -216,6 +203,19 @@ sections:
         **Tutorials**
         - **Statistical Modeling of Signed Networks with ergm.sign** (3-hour workshop, EUSN 2026, with Cornelius Fritz)
     design:
+      columns: '2'
+
+  - block: collection
+    id: posts
+    content:
+      title: Media
+      count: 2
+      filters:
+        folders:
+          - post
+      order: desc
+    design:
+      view: showcase
       columns: '2'
     
   - block: contact
